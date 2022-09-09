@@ -1,5 +1,7 @@
 👋 Hi, I’m @JeffYoun
 
+Student @CMUSCS
+
 Intern @CrossCert
 
 Intern @AIBrain
