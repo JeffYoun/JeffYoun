@@ -1,10 +1,8 @@
 👋 Hi, I’m @JeffYoun
 
-Student @CMUSCS
+@CMUSCS
 
-Intern @CrossCert
-
-Intern @AIBrain
+AI Engineer @AIBrain
 
 📫 How to reach me:
-jaeyouny@andrew.cmu.edu
+jeffreyoun@gmail.com
